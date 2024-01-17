@@ -1,0 +1,84 @@
+lipy{
+    color: rgb(121, 121, 235);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 45px;
+}
+lijs{
+    color: rgb(235, 218, 121);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 45px;
+}
+lihtml{
+    color: rgb(235, 218, 121);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 45px;
+}
+licss{
+    color: rgb(0, 183, 255);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 45px;
+}
+limachlear{
+    color: rgb(0, 255, 115);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 45px;
+}
+
+/* PYTHON */
+lip{
+    color: rgb(255, 255, 255);
+    font-family: 'Arial Narrow Bold', sans-serif;
+    font-size: 19px;
+}
+ulp{
+    
+    display: block;
+    padding: 60px;
+    color: #fffcfc;
+    text-decoration: none;
+}
+ulpy{
+    display: block;
+    padding: 12px;
+    color: #fffcfc;
+    text-decoration: none;
+}
+
+/* JAVA SCRIPT */
+lij{
+    color: rgb(255, 255, 255);
+    font-family: 'Arial Narrow Bold', sans-serif;
+    font-size: 19px;
+}
+ulj{
+    
+    display: block;
+    padding: 60px;
+    color: #fffcfc;
+    text-decoration: none;
+}
+uljs{
+    display: block;
+    padding: 12px;
+    color: #fffcfc;
+    text-decoration: none;
+}
+/* MACHINE LEARNING */
+lij{
+    color: rgb(255, 255, 255);
+    font-family: 'Arial Narrow Bold', sans-serif;
+    font-size: 19px;
+}
+ulj{
+    
+    display: block;
+    padding: 60px;
+    color: #fffcfc;
+    text-decoration: none;
+}
+uljs{
+    display: block;
+    padding: 12px;
+    color: #fffcfc;
+    text-decoration: none;
+}
